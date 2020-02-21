@@ -15,7 +15,7 @@ Azure AD B2C Directory
 Angular CLI
 
 
-# AzureAdB2cAngular
+# Azure AD B2C Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
